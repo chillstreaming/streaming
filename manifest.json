@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "Chill Streaming",
+  "short_name": "Chill",
+  "description": "Cuentas streaming y combos — Chill Streaming",
+  "start_url": "https://chillstreaming.blogspot.com/?utm_source=homescreen&view=app",
+  "display": "standalone",
+  "scope": "https://chillstreaming.blogspot.com/",
+  "background_color": "#ffffff",
+  "theme_color": "#148578",
+  "icons": [
+    {"src":"https://cdn.jsdelivr.net/gh/USER/REPO/dist/icons-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"https://cdn.jsdelivr.net/gh/USER/REPO/dist/icon-512-maskable.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+  ],
+  "shortcuts":[
+    {"name":"Comprar","url":"https://chillstreaming.blogspot.com/comprar?utm_source=homescreen","icons":[{"src":"https://cdn.jsdelivr.net/gh/USER/REPO/dist/icon-96.png","sizes":"96x96","type":"image/png"}]},
+    {"name":"Soporte","url":"https://wa.me/519XXXXXXXX","icons":[{"src":"https://cdn.jsdelivr.net/gh/USER/REPO/dist/icon-96.png","sizes":"96x96","type":"image/png"}]}
+  ]
+}
