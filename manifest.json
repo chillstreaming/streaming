@@ -9,11 +9,11 @@
   "background_color": "#ffffff",
   "theme_color": "#148578",
   "icons": [
-    {"src":"https://cdn.jsdelivr.net/gh/USER/REPO/dist/icons-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
-    {"src":"https://cdn.jsdelivr.net/gh/USER/REPO/dist/icon-512-maskable.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+    {"src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisldTSPR5qQSsrqZDyfYV81HFSq4Pko5u8xpbzKJ7V05CZAaCkfxG550uqbp2xlCxukxcVL4i2so2XxNri-wqqUO0yuVLLznfFes1rdmg7Ywq8pWE8FXwWQfcyrNiAPlyI3_ngX12x7-KGzAVPfjiTWPMP3HdwelG4pn729xMfH05-hdWVbQyaIsgMkQg/w192-h192-p-k-no-nu/favicon.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisldTSPR5qQSsrqZDyfYV81HFSq4Pko5u8xpbzKJ7V05CZAaCkfxG550uqbp2xlCxukxcVL4i2so2XxNri-wqqUO0yuVLLznfFes1rdmg7Ywq8pWE8FXwWQfcyrNiAPlyI3_ngX12x7-KGzAVPfjiTWPMP3HdwelG4pn729xMfH05-hdWVbQyaIsgMkQg/w512-h512-p-k-no-nu/favicon.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
   ],
   "shortcuts":[
-    {"name":"Comprar","url":"https://chillstreaming.blogspot.com/comprar?utm_source=homescreen","icons":[{"src":"https://cdn.jsdelivr.net/gh/USER/REPO/dist/icon-96.png","sizes":"96x96","type":"image/png"}]},
-    {"name":"Soporte","url":"https://wa.me/519XXXXXXXX","icons":[{"src":"https://cdn.jsdelivr.net/gh/USER/REPO/dist/icon-96.png","sizes":"96x96","type":"image/png"}]}
+    {"name":"Comprar","url":"/updates","icons":[{"src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisldTSPR5qQSsrqZDyfYV81HFSq4Pko5u8xpbzKJ7V05CZAaCkfxG550uqbp2xlCxukxcVL4i2so2XxNri-wqqUO0yuVLLznfFes1rdmg7Ywq8pWE8FXwWQfcyrNiAPlyI3_ngX12x7-KGzAVPfjiTWPMP3HdwelG4pn729xMfH05-hdWVbQyaIsgMkQg/w96-h96-p-k-no-nu/favicon.png","sizes":"96x96","type":"image/png"}]},
+      {"name":"Soporte","url":"https://api.whatsapp.com/send?phone=51944109100&text=Soporte","icons":[{"src":"https://cdn.jsdelivr.net/gh/USER/REPO/dist/icon-96.png","sizes":"96x96","type":"image/png"}]}
   ]
 }
